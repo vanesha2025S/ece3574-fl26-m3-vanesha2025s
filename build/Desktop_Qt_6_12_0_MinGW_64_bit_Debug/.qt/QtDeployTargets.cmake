@@ -1,0 +1,6 @@
+set(__QT_DEPLOY_TARGETS "aiws_m2;ai_workspace_m3")
+set(__QT_DEPLOY_TARGET_aiws_m2_FILE C:/ECE3574/ece3574-fl26-m3-vanesha2025s/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/libaiws_m2.a)
+set(__QT_DEPLOY_TARGET_aiws_m2_TYPE STATIC_LIBRARY)
+set(__QT_DEPLOY_TARGET_ai_workspace_m3_FILE C:/ECE3574/ece3574-fl26-m3-vanesha2025s/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/ai_workspace_m3.exe)
+set(__QT_DEPLOY_TARGET_ai_workspace_m3_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_ai_workspace_m3_RUNTIME_DLLS C:/Users/vanes/Downloads/6.12.0/mingw_64/bin/Qt6Widgets.dll;C:/Users/vanes/Downloads/6.12.0/mingw_64/bin/Qt6Gui.dll;C:/Users/vanes/Downloads/6.12.0/mingw_64/bin/Qt6Core.dll)
