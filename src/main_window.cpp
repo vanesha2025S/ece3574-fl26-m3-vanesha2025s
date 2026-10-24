@@ -310,8 +310,7 @@ void MainWindow::exit_application() {
 
 void MainWindow::update_action_states() {
     bool has_documents = !workspace_.documents().empty();
-    bool can_process =
-        corpus_current_ && search_widget_->has_query();
+    bool can_process = corpus_current_ && search_widget_->has_query();
 
     workspace_widget_->set_build_corpus_enabled(
         has_documents
