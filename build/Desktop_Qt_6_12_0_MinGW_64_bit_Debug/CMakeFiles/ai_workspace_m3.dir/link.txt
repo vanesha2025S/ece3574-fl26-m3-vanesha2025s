@@ -1,3 +1,0 @@
-C:\Users\vanes\Downloads\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\ai_workspace_m3.dir/objects.a
-C:\Users\vanes\Downloads\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\ai_workspace_m3.dir/objects.a @CMakeFiles\ai_workspace_m3.dir\objects1.rsp
-C:\Users\vanes\Downloads\Tools\mingw1310_64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\ai_workspace_m3.dir/objects.a -Wl,--no-whole-archive -o ai_workspace_m3.exe -Wl,--out-implib,libai_workspace_m3.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ai_workspace_m3.dir\linkLibs.rsp

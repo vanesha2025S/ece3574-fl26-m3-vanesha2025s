@@ -1,6 +1,0 @@
-C:/ECE3574/ece3574-fl26-m3-vanesha2025s/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/CMakeFiles/aiws_m2.dir
-C:/ECE3574/ece3574-fl26-m3-vanesha2025s/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/CMakeFiles/ai_workspace_m3.dir
-C:/ECE3574/ece3574-fl26-m3-vanesha2025s/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/CMakeFiles/edit_cache.dir
-C:/ECE3574/ece3574-fl26-m3-vanesha2025s/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/CMakeFiles/rebuild_cache.dir
-C:/ECE3574/ece3574-fl26-m3-vanesha2025s/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/CMakeFiles/ai_workspace_m3_autogen_timestamp_deps.dir
-C:/ECE3574/ece3574-fl26-m3-vanesha2025s/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/CMakeFiles/ai_workspace_m3_autogen.dir
